@@ -1,3 +1,3 @@
 ### Deployment
 
-https://sethndagijimana.github.io/tick-tac-toe/
+https://tick-tac-toe-cyan.vercel.app/
